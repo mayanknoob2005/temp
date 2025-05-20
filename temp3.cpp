@@ -2,6 +2,6 @@
 using namespace std;
 
 int main() {
-    cout << "third  file - helo world with multiply" << endl;
+    cout << "third  updated file - helo world with multiply" << endl;
     return 0;
 }
